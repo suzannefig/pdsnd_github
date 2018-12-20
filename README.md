@@ -1,15 +1,22 @@
 ### Date created
-Include the date you created this project and README file.
+12/20/2018
 
 ### Project Title
-Replace the Project Title
+mybikeshare.py
 
 ### Description
-Describe what your project is about and what it does
+My project explores bikeshare date from Chicago, Washington, and New York
 
 ### Files used
-Include the files used
+chicago.csv
+washington.csv
+newyork.csv
+mybikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity
+Slack.com
+Student Hub
+Stackoverflow.com
+
 
