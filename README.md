@@ -5,7 +5,7 @@
 mybikeshare.py
 
 ### Description
-My project explores bikeshare date from Chicago, Washington, and New York
+My project explores bikeshare data from Chicago, Washington, and New York
 
 ### Files used
 chicago.csv
